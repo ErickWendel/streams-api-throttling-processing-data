@@ -65,4 +65,6 @@ mkdir webservice
       add throttle
     throttle
       all 
-      
+  
+  run - it should send data respecting the rate limit
+  
