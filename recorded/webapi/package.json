@@ -1,0 +1,18 @@
+{
+  "name": "webapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.20",
+    "express": "4.18",
+    "express-rate-limit": "6.6"
+  }
+}
